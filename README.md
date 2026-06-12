@@ -1,4 +1,4 @@
-# odin-recipe
+# odin-recipes
 
 This is the first project of The Odin Project (https://www.theodinproject.com) course.
 
